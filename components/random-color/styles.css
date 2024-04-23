@@ -1,0 +1,23 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+}
+
+button {
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(193, 178, 236);
+  font-weight: bold;
+  color: #3e033e;
+  padding: 10px 20px;
+  margin: 10px;
+}
+
+.colorinfo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  margin-top: 50px;
+}

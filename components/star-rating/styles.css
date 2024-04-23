@@ -1,0 +1,22 @@
+
+.active{
+  color: rgb(228, 228, 57);
+}
+
+.inactive{
+  color: black;
+}
+
+.star-rating{
+  display: flex;
+  flex-direction: row;
+  margin-top: 100px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.stars{
+  color:purple;
+  margin-left: 20px;
+}

@@ -1,0 +1,25 @@
+.top-container {
+  position: fixed;
+  top: 0;
+  z-index: 1;
+  width: 100%;
+  text-align: center;
+  background-color: #075b0a;
+  color: white;
+}
+
+.progress-bar-container {
+  width: 100%;
+  height: 10px;
+  background: rgb(123, 255, 0);
+}
+
+.custom-progress-bar {
+  height: 10px;
+  background: rgba(128, 0, 128, 0.767);
+  width: 0%;
+}
+
+.data-container {
+  margin-top: 100px;
+}
